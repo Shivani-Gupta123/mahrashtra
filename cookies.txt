@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+maharashtralottery.club	TRUE	/	FALSE	1999999999	ci_session	c2bc4e1d69c99516df27211d57deab43db5e6c6c
+maharashtralottery.club	TRUE	/	FALSE	1999999999	csrf_cookie_maharaja	49190a23480efc2530a6dabca8e9faa2
+
